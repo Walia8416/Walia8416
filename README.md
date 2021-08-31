@@ -1,16 +1,50 @@
-### Hi there 👋
 
-<!--
-**Walia8416/Walia8416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 title="hehehe"> Hi There! 👋</h3>
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/aditya-walia16/">
+  <img align="left" alt="Aditya's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/adi_walia/">
+  <img align="left" alt="Aditya's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=Walia8416&color=blueviolet" align="left">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<br />
+<br />
+
+A **Computer Science Student** 🚀 from New Delhi, India.
+ 
+
+  <img align="right" alt="GIF" src="https://c.tenor.com/z4_HKSF6Nx8AAAAC/typing-jim-carrey.gif" />
+
+**About Me!**
+
+- 👨🏽‍💻 I’m currently working as a React Native Developer Intern at Droid7 Technolabs.
+- 🌱 I’m currently exploring Python with a big interest in OpenCV and Data Visualization. 
+- 💼 I’m pursuing a Bachelor's degree in Computer Science.
+- 💬 Ask me about anything, I love to answer!
+- 📫 Email me at [adi.walia16@gmail.com](mailto:adi.walia16@gmail.com).
+- 📝 See my [Resume](https://drive.google.com/file/d/1Oc4_huqck9GZznlTOefZ4b-35E4T24DH/view?usp=sharing) to get more info.
+
+
+**Languages and Tools:**  
+
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Walia8416&show_icons=true&hide_border=true&count_private=true&theme=dark&icon_color=fad000" alt="Aditya's GitHub Stats">
+
+⭐️ From [Walia8416](https://github.com/Walia8416)
+
+
