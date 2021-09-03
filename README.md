@@ -26,7 +26,7 @@ A **Computer Science Student** 🚀 from New Delhi, India.
 - 💼 I’m pursuing a Bachelor's degree in Computer Science.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [adi.walia16@gmail.com](mailto:adi.walia16@gmail.com).
-- 📝 See my [Resume](https://drive.google.com/file/d/1Oc4_huqck9GZznlTOefZ4b-35E4T24DH/view?usp=sharing) to get more info.
+
 
 
 **Languages and Tools:**  
