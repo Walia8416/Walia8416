@@ -21,8 +21,7 @@ A **Computer Science Student** 🚀 from New Delhi, India.
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently working as a React Native Developer Intern at Droid7 Technolabs.
-- 🌱 I’m currently exploring Python with a big interest in OpenCV and Data Visualization. 
+- 👨🏽‍💻 I’m currently working as a React Native Developer Intern at Droid7 Technolabs. 
 - 💼 I’m pursuing a Bachelor's degree in Computer Science.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [adi.walia16@gmail.com](mailto:adi.walia16@gmail.com).
