@@ -22,7 +22,7 @@ A **Computer Science Student** 🚀 from New Delhi, India.
 **About Me!**
 
 - 👨🏽‍💻 I’m currently working as a React Native Developer Intern at Droid7 Technolabs. 
-- 💼 I’m pursuing a Bachelor's degree in Computer Science.
+- 💼 I’m pursuing B.Sc. Computer Science Hons. from University Of Delhi.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [adiwaliawork@gmail.com](mailto:adiwaliawork@gmail.com).
 
