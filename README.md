@@ -2,7 +2,7 @@
 <h3 title="hehehe"> Hi There! 👋</h3>
 
 <a href="https://www.linkedin.com/in/aditya-walia16/">
-  <img align="left" alt="Aditya's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Aditya's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.3.0/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/adi_walia/">
   <img align="left" alt="Aditya's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
