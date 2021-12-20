@@ -22,8 +22,8 @@ A **Computer Science Student** 🚀 from New Delhi, India.
 **About Me!**
 
 - 👨🏽‍💻 Experience in React Native and NODE.js. 
-- 💼 I’m pursuing Bachelor of Science (BSc), Computer Science Hons. from University Of Delhi.
-- 💬 Ask me about anything, I love to answer!
+- 💼 Pursuing Bachelor of Science - BS, Computer Science Hons. from University Of Delhi.
+- 💬 Currently working as a Mobile Application Developer at [ADmyBRAND](https://in.admybrand.com/).
 - 📫 Email me at [adiwaliawork@gmail.com](mailto:adiwaliawork@gmail.com).
 
 
