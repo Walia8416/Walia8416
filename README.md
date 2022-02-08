@@ -7,7 +7,7 @@
 <a href="https://www.instagram.com/adi_walia/">
   <img align="left" alt="Aditya's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=Walia8416&color=blueviolet" align="left">
+<img src="https://komarev.com/ghpvc/?username=Walia8416&color=blueviolet" align="right">
 
 
 
