@@ -23,7 +23,6 @@ A **Computer Science Student** 🚀 from New Delhi, India.
 
 - 👨🏽‍💻 Experience in React Native and NODE.js. 
 - 💼 Pursuing Bachelor of Science - BS, Computer Science Hons. from University Of Delhi.
-- 💬 Currently working as a Mobile Application Developer Intern at [ADmyBRAND](https://in.admybrand.com/).
 - 📫 Email me at [adiwaliawork@gmail.com](mailto:adiwaliawork@gmail.com).
 
 
