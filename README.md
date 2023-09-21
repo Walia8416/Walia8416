@@ -22,7 +22,8 @@ A **Computer Science Student** 🚀 from New Delhi, India.
 **About Me!**
 
 - 👨🏽‍💻 Experience in React Native and NODE.js. 
-- 💼 Pursuing Bachelor of Science - BS, Computer Science Hons. from University Of Delhi.
+- 💼 Bachelor of Science - BS, Computer Science Hons. from University Of Delhi.
+- 💼 Pursuing Master of Computer Applications - MCA, from Vellore Institute of Technology (Vellore).
 - 📫 Email me at [adiwaliawork@gmail.com](mailto:adiwaliawork@gmail.com).
 
 
