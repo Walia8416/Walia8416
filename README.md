@@ -24,8 +24,7 @@
   </a>
 </p>
 
-<img align="right" alt="GIF" src="https://c.tenor.com/z4_HKSF6Nx8AAAAC/typing-jim-carrey.gif" />
-
+<br><br>
 ## 📊 Github Stats
 <div>
   <a href="https://github.com/diegoborbadev?tab=repositories">
@@ -39,5 +38,7 @@
 ## Skills
   
   [![My Skills](https://skillicons.dev/icons?i=react,py,django,java,js,postman,aws,cpp,tensorflow,nodejs)](https://skillicons.dev)
+  
+  <img align="centre" alt="GIF" src="https://c.tenor.com/z4_HKSF6Nx8AAAAC/typing-jim-carrey.gif" />
   
 
