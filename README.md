@@ -1,50 +1,43 @@
+<p align="center">
+  <!-- Typing SVG -->
+  <a href="https://github.com/walia8416?tab=repositories">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=Aditya+Walia;&font=Fira%20Code&center=true&width=440&height=45&vCenter=true&pause=1500&size=28&color=EE4B2B">
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?lines=Aditya+Walia;&font=Fira%20Code&center=true&width=440&height=45&vCenter=true&pause=1000&size=22&color=2f80ed">
+      <img src="https://readme-typing-svg.demolab.com/?lines=Aditya+Walia;&font=Fira%20Code&center=true&width=500&height=45&vCenter=true&pause=1000&size=22&color=880808"/>
+    </picture>
+  </a>
+</p>
 
-<h3 title="hehehe"> Hi There! 👋</h3>
-
-<a href="https://www.linkedin.com/in/aditya-walia16/">
-  <img align="left" alt="Aditya's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.3.0/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/adi_walia/">
-  <img align="left" alt="Aditya's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=Walia8416&color=blueviolet" align="right">
-
-
-
-<br />
-<br />
-
-A **Computer Science Student** 🚀 from New Delhi, India.
+<!-- Social badges section -->
+<p align="center">
+  <!-- My Site  -->
+  
+  <!-- Linkedin -->
+  <a href="https://www.linkedin.com/in/aditya-walia16/">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
  
+  <!-- Profile Views -->
+  <a href="https://github.com/diegoborbadev?tab=repositories">
+    <img alt="Profile Views" title="Profile Views" src="https://komarev.com/ghpvc/?username=diegoborbadev&style=for-the-badge&color=FE428E">
+  </a>
+</p>
 
-  <img align="right" alt="GIF" src="https://c.tenor.com/z4_HKSF6Nx8AAAAC/typing-jim-carrey.gif" />
+<img align="right" alt="GIF" src="https://c.tenor.com/z4_HKSF6Nx8AAAAC/typing-jim-carrey.gif" />
 
-**About Me!**
-
-- 👨🏽‍💻 Experience in React Native and Django Rest Framework.
-- 👨🏽‍💻 Fluent in tensorflow and have a keen interest in deep learning. 
-- 💼 Bachelor of Science - BS, Computer Science Hons. from University Of Delhi.
-- 💼 Pursuing Master of Computer Applications - MCA, from Vellore Institute of Technology (Vellore).
-- 📫 Email me at [adiwaliawork@gmail.com](mailto:adiwaliawork@gmail.com).
-
-
-
-**Languages and Tools:**  
+## 📊 Github Stats
+<div>
+  <a href="https://github.com/diegoborbadev?tab=repositories">
+  <img height="190em" src="https://diegoborbadev-github-readme-stats.vercel.app/api?username=walia8416&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight"/>
+  <img height="190em" src="https://diegoborbadev-github-readme-stats.vercel.app/api/top-langs/?username=walia8416&layout=compact&langs_count=8&theme=tokyonight&exclude_repo=diegoborbadev-readme-stack-exchange,diegoborbadev-github-readme-stats"/>
+  </a>
+<div>
 
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Walia8416&show_icons=true&hide_border=true&count_private=true&theme=dark&icon_color=fad000" alt="Aditya's GitHub Stats">
-
-⭐️ From [Walia8416](https://github.com/Walia8416)
-
+## Skills
+  
+  [![My Skills](https://skillicons.dev/icons?i=react,py,django,java,js,postman,aws,cpp,tensorflow,nodejs)](https://skillicons.dev)
+  
 
